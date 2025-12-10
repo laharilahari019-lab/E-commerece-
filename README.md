@@ -11,9 +11,7 @@ Customer behavior (new vs repeat customers)
 Monthly sales and order trends
 
 Best-selling products and top-performing categories
-
 Revenue performance across regions
-
 Payment method usage
 
 The final deliverable is an interactive Power BI dashboard supported by a cleaned dataset and summary report.
